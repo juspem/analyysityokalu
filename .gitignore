@@ -1,0 +1,14 @@
+Dockerfile
+compose.yaml
+docker-compose.yml
+.dockerignore
+koodi.py
+README.Docker.md
+__pycache__/main.cpython-314.pyc
+portfolio/__pycache__/__init__.cpython-314.pyc
+portfolio/__pycache__/analysis.cpython-314.pyc
+portfolio/__pycache__/data.cpython-314.pyc
+portfolio/__pycache__/etf_analysis.cpython-314.pyc
+portfolio/__pycache__/forecasting.cpython-314.pyc
+portfolio/__pycache__/optimization.cpython-314.pyc
+portfolio/__pycache__/visualization.cpython-314.pyc
